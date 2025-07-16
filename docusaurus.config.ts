@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kaev/classic-emulation-tutorials/',
+            'https://github.com/kaev/classic-emulation-tutorials/blob/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
