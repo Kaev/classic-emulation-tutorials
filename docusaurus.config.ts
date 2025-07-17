@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://kaev.github.io',
+  url: 'https://wowemulation-dev.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/classic-emulation-tutorials/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Kaev', // Usually your GitHub org/user name.
+  organizationName: 'wowemulation-dev', // Usually your GitHub org/user name.
   projectName: 'classic-emulation-tutorials', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kaev/classic-emulation-tutorials/blob/master/',
+            'https://github.com/wowemulation-dev/classic-emulation-tutorials/blob/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
